@@ -9,10 +9,10 @@
 - name: Issues
   link: /issue-tracker.html
 - name: Support
-  link: https://mailpiler.com/support.html
+  link: https://mailpiler.com/support
 - name: Demo
-  link: https://mailpiler.com/#demo
+  link: https://mailpiler.com/demo
 - name: FAQ
   link: /faq.html
 - name: Blog
-  link: https://mailpiler.com/blog.html
+  link: https://mailpiler.com/blog
