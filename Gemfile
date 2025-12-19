@@ -4,5 +4,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 
+gem "rake"
 gem "jekyll", "~> 4.3"
 gem "jekyll-paginate-v2"
