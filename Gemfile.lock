@@ -70,6 +70,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-paginate-v2
+  rake
 
 BUNDLED WITH
    2.4.21
